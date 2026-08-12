@@ -9,8 +9,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_notification
-// @updateURL    https://github.com/Ovolsan/O-OLX/raw/refs/heads/main/O%20OLX-17052026.user.js
-// @downloadURL  https://github.com/Ovolsan/O-OLX/raw/refs/heads/main/O%20OLX-17052026.user.js
+// @updateURL    https://github.com/Ovolsan/O-OLX/raw/refs/heads/main/O%20OLX.user.js
+// @downloadURL  https://github.com/Ovolsan/O-OLX/raw/refs/heads/main/O%20OLX.user.js
 // @run-at       document-end
 // ==/UserScript==
 
