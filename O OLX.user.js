@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         O OLX
 // @namespace    http://tampermonkey.net/
-// @version      20260012
+// @version      20260812
 // @description  Убирает ТОП объявления и позволяет фильтровать по ключевым фразам (белый/чёрный список) с привязкой шаблонов к URL (укрупнённый шрифт)
 // @author       Ovolya
 // @match        https://olx.ua/*
